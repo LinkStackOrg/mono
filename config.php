@@ -36,12 +36,12 @@ return [
     | 
     */
 
-    'enable_custom_code' => 'false',
+    'enable_custom_code' => 'true',
 
     // Disable individual files (only applies if above is 'true').
     'enable_custom_head'     => 'true',
-    'enable_custom_body'     => 'true',
-    'enable_custom_body_end' => 'true',
+    'enable_custom_body'     => 'false',
+    'enable_custom_body_end' => 'false',
 
 
     /*
